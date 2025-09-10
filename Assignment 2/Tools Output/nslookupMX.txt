@@ -1,0 +1,16 @@
+Server:		192.168.5.2
+Address:	192.168.5.2#53
+
+Non-authoritative answer:
+*** Can't find vulnweb.com: No answer
+
+Authoritative answers can be found from:
+vulnweb.com
+	origin = ns1.eurodns.com
+	mail addr = hostmaster.eurodns.com
+	serial = 2024111200
+	refresh = 86400
+	retry = 7200
+	expire = 604800
+	minimum = 86400
+

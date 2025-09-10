@@ -1,0 +1,467 @@
+ExifTool Version Number         : 13.25
+File Name                       : 6.jpg
+Directory                       : pictures_downloads
+File Size                       : 11 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:08:04+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:41+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 320
+Image Height                    : 200
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x200
+Megapixels                      : 0.064
+ExifTool Version Number         : 13.25
+File Name                       : 6.jpg.tn
+Directory                       : pictures_downloads
+File Size                       : 4.3 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:07:42+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:42+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 160
+Image Height                    : 100
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 160x100
+Megapixels                      : 0.016
+ExifTool Version Number         : 13.25
+File Name                       : WS_FTP.LOG
+Directory                       : pictures_downloads
+File Size                       : 771 bytes
+File Modification Date/Time     : 2009:01:23 15:36:53+05:30
+File Access Date/Time           : 2025:09:10 00:07:44+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:44+05:30
+File Permissions                : -rw-r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : Windows CRLF
+Line Count                      : 9
+Word Count                      : 72
+ExifTool Version Number         : 13.25
+File Name                       : 2.jpg.tn
+Directory                       : pictures_downloads
+File Size                       : 1353 bytes
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:07:39+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:39+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 160
+Image Height                    : 100
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 160x100
+Megapixels                      : 0.016
+ExifTool Version Number         : 13.25
+File Name                       : 1.jpg
+Directory                       : pictures_downloads
+File Size                       : 12 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:08:04+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:38+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 320
+Image Height                    : 200
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x200
+Megapixels                      : 0.064
+ExifTool Version Number         : 13.25
+File Name                       : 7.jpg.tn
+Directory                       : pictures_downloads
+File Size                       : 6.5 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:07:42+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:42+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 160
+Image Height                    : 100
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 160x100
+Megapixels                      : 0.016
+ExifTool Version Number         : 13.25
+File Name                       : 1.jpg.tn
+Directory                       : pictures_downloads
+File Size                       : 4.4 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:07:39+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:39+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 160
+Image Height                    : 100
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 160x100
+Megapixels                      : 0.016
+ExifTool Version Number         : 13.25
+File Name                       : wp-config.bak
+Directory                       : pictures_downloads
+File Size                       : 1535 bytes
+File Modification Date/Time     : 2008:12:03 20:07:43+05:30
+File Access Date/Time           : 2025:09:10 00:08:25+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:45+05:30
+File Permissions                : -rw-r--r--
+File Type                       : PHP
+File Type Extension             : php
+MIME Type                       : application/x-httpd-php
+Warning                         : Unsupported file type
+ExifTool Version Number         : 13.25
+File Name                       : 8.jpg.tn
+Directory                       : pictures_downloads
+File Size                       : 4.1 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:07:43+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:43+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 160
+Image Height                    : 100
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 160x100
+Megapixels                      : 0.016
+ExifTool Version Number         : 13.25
+File Name                       : ipaddresses.txt
+Directory                       : pictures_downloads
+File Size                       : 52 bytes
+File Modification Date/Time     : 2009:01:23 18:29:43+05:30
+File Access Date/Time           : 2025:09:10 00:08:25+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:44+05:30
+File Permissions                : -rw-r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : Windows CRLF
+Line Count                      : 7
+Word Count                      : 8
+ExifTool Version Number         : 13.25
+File Name                       : 3.jpg.tn
+Directory                       : pictures_downloads
+File Size                       : 3.7 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:07:40+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:40+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 160
+Image Height                    : 100
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 160x100
+Megapixels                      : 0.016
+ExifTool Version Number         : 13.25
+File Name                       : credentials.txt
+Directory                       : pictures_downloads
+File Size                       : 33 bytes
+File Modification Date/Time     : 2009:01:23 16:17:58+05:30
+File Access Date/Time           : 2025:09:10 00:08:25+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:44+05:30
+File Permissions                : -rw-r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : Windows CRLF
+Line Count                      : 2
+Word Count                      : 2
+ExifTool Version Number         : 13.25
+File Name                       : 5.jpg.tn
+Directory                       : pictures_downloads
+File Size                       : 4.4 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:07:41+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:41+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 160
+Image Height                    : 100
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 160x100
+Megapixels                      : 0.016
+ExifTool Version Number         : 13.25
+File Name                       : path-disclosure-unix.html
+Directory                       : pictures_downloads
+File Size                       : 3.9 kB
+File Modification Date/Time     : 2013:04:08 14:12:10+05:30
+File Access Date/Time           : 2025:09:10 00:07:44+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:44+05:30
+File Permissions                : -rw-r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : iso-8859-1
+Newlines                        : Windows CRLF
+Line Count                      : 58
+Word Count                      : 306
+ExifTool Version Number         : 13.25
+File Name                       : 8.jpg
+Directory                       : pictures_downloads
+File Size                       : 50 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:08:04+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:43+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 320
+Image Height                    : 200
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x200
+Megapixels                      : 0.064
+ExifTool Version Number         : 13.25
+File Name                       : path-disclosure-win.html
+Directory                       : pictures_downloads
+File Size                       : 698 bytes
+File Modification Date/Time     : 2013:04:08 14:11:02+05:30
+File Access Date/Time           : 2025:09:10 00:07:45+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:45+05:30
+File Permissions                : -rw-r--r--
+File Type                       : TXT
+File Type Extension             : txt
+MIME Type                       : text/plain
+MIME Encoding                   : us-ascii
+Newlines                        : Windows CRLF
+Line Count                      : 15
+Word Count                      : 72
+ExifTool Version Number         : 13.25
+File Name                       : 7.jpg
+Directory                       : pictures_downloads
+File Size                       : 19 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:08:04+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:42+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 320
+Image Height                    : 200
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x200
+Megapixels                      : 0.064
+ExifTool Version Number         : 13.25
+File Name                       : 3.jpg
+Directory                       : pictures_downloads
+File Size                       : 9.7 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:08:04+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:40+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 320
+Image Height                    : 200
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x200
+Megapixels                      : 0.064
+ExifTool Version Number         : 13.25
+File Name                       : 2.jpg
+Directory                       : pictures_downloads
+File Size                       : 3.3 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:08:04+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:39+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 320
+Image Height                    : 200
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x200
+Megapixels                      : 0.064
+ExifTool Version Number         : 13.25
+File Name                       : 4.jpg.tn
+Directory                       : pictures_downloads
+File Size                       : 4.6 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:07:40+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:40+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 160
+Image Height                    : 100
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 160x100
+Megapixels                      : 0.016
+ExifTool Version Number         : 13.25
+File Name                       : index.html
+Directory                       : pictures_downloads
+File Size                       : 2.7 kB
+File Modification Date/Time     : 2025:09:10 00:07:38+05:30
+File Access Date/Time           : 2025:09:10 00:07:38+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:38+05:30
+File Permissions                : -rw-r--r--
+File Type                       : HTML
+File Type Extension             : html
+MIME Type                       : text/html
+Title                           : Index of /pictures/
+ExifTool Version Number         : 13.25
+File Name                       : 4.jpg
+Directory                       : pictures_downloads
+File Size                       : 14 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:08:04+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:40+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 320
+Image Height                    : 200
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x200
+Megapixels                      : 0.064
+ExifTool Version Number         : 13.25
+File Name                       : 5.jpg
+Directory                       : pictures_downloads
+File Size                       : 14 kB
+File Modification Date/Time     : 2011:05:11 15:57:45+05:30
+File Access Date/Time           : 2025:09:10 00:08:04+05:30
+File Inode Change Date/Time     : 2025:09:10 00:07:41+05:30
+File Permissions                : -rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 320
+Image Height                    : 200
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x200
+Megapixels                      : 0.064

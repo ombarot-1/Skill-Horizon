@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.20.11-4+b1-Debian <<>> MX vulnweb.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65203
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; MBZ: 0x0005, udp: 4096
+;; QUESTION SECTION:
+;vulnweb.com.			IN	MX
+
+;; AUTHORITY SECTION:
+vulnweb.com.		5	IN	SOA	ns1.eurodns.com. hostmaster.eurodns.com. 2024111200 86400 7200 604800 86400
+
+;; Query time: 83 msec
+;; SERVER: 192.168.5.2#53(192.168.5.2) (UDP)
+;; WHEN: Tue Sep 09 21:08:36 IST 2025
+;; MSG SIZE  rcvd: 99
+

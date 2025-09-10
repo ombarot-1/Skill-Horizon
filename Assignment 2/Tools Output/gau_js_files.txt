@@ -1,0 +1,6 @@
+http://www.vulnweb.com/usr/themes/lanstar-master/assets/js/gazeimg.js
+http://www.vulnweb.com/usr/themes/lanstar-master/assets/js/lanstarApp.js
+http://www.vulnweb.com/usr/themes/lanstar-master/assets/js/page.js
+http://vulnweb.com/wp-content/themes/twentyeleven/js/html5.js
+http://testphp.vulnweb.com/bxss/test.js
+http://testphp.vulnweb.com/medias/js/common_functions.js

@@ -1,0 +1,20 @@
+
+; <<>> DiG 9.20.11-4+b1-Debian <<>> vulnweb.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63381
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; MBZ: 0x0005, udp: 4096
+;; QUESTION SECTION:
+;vulnweb.com.			IN	A
+
+;; ANSWER SECTION:
+vulnweb.com.		5	IN	A	44.228.249.3
+
+;; Query time: 15 msec
+;; SERVER: 192.168.5.2#53(192.168.5.2) (UDP)
+;; WHEN: Tue Sep 09 21:09:01 IST 2025
+;; MSG SIZE  rcvd: 56
+

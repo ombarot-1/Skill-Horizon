@@ -1,0 +1,316 @@
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://331828.testphp.vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://55bebe.testphp.vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://biboyulekaihu.testphp.vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/974nmEYY.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/AqZYuOUb.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/b7CyTSHm.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/bA5Voqs6.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/Bnz1xEKd.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/d8GM7p8r.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/F5JXrZ5W.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/iCXEdWYq.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/IYx4wRAO.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/KjP91sei.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/ksmaXJQj.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/kTqnAb2I.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/l5epyeeQ.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/lDCbz391.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/lMAe6dgc.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/MIKghOek.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/NlcwEscw.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/nNyN4d0y.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/pLWIlDWJ.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/Q7skzwIL.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/QfZg3mqN.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/rB88CHyu.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/rfhwU63i.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/s07QnyPf.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/U7CuV56t.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/v7AAQOPr.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/vb59JaxQ.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/VbsekdJK.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/vT0UdjNG.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/vwFIWscT.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/WGXoOyRA.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/XkBoWHXX.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blogger.com.vulnweb.com/yi7jaMb1.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://blog.vulnweb.com/hpp/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://eland.testphp.vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://estphp.vulnweb.com/signup.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://gd6.vulnweb.com/product.php?pic=
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://gd6.vulnweb.com/product.php?pic=3
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://http://www.vulnweb.com/news/story/0ap2000000266504/article/bill-belichick-disagrees-with-penalty-call-in-pats-loss
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://http://www.vulnweb.com/news/story/0ap3000000944702/article/irsay-colts-wouldnt-trade-brissett-for-firstround-pick
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://images.vulnweb.com/artists.ph
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://localhost.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://mx1.vulnweb.com/categories.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://restasp.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://rest.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://rest.vulnweb.com/oauth2/api/users/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://sieb-web1.testphp.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://testaspnet.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://testasp.vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://testasp.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://testphp.vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://testphp.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://testphp.vulnweb.com/categories.php/privacy.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://testphp.vulnweb.com/listproducts.php?cat=1
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://testphp.vulnweb.com/login.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://www.testphp.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://www.vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: https://www.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://tesphp.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://tesph.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testaspnet.vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testaspnet.vulnweb.com.
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testaspnet.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testaspnet.vulnweb.com:
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testaspnet.vulnweb.com/about.aspx
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testaspnet.vulnweb.com/acuservice/service.asmx?WSDL
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testaspnet.vulnweb.com/favicon.ico
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testaspnet.vulnweb.com/jscripts/tiny_mce/themes/simple/images/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testaspnet.vulnweb.com/readnews.aspx?id=2
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com:
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/4wCzhlmB0Y.exe
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/9Qvvz3GZn3.exe
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/admin/login.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/BhmEbSKeJ0.exe
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/cgi-bin/acunetix_test_for_error_page.exe
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/cgi-bin/admin/login.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/cms/admin/login.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/Default.asp
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/elite/admin/login.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/elitecms/admin/login.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/favicon.ico
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/GgHwoK4VDM.exe
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/Images/logo.gif
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/login.asp
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/Login.asp?RetURL=%2Fshowthread.asp%3Fid%3D26
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/Login.asp?RetURL=/Default.asp?
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/Login.asp?RetURL=/Templatize.asp?item=html/about.html
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/m0RdiqRWmT.exe
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/oBCvaG4zaq.exe
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/octavocms/admin/login.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/odbMylH8DQ.exe
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/oscmax/admin/login.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/oscmax/catalog/admin/login.php
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/OUgl0W2MDP.exe
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/Register.asp?RetURL=/Default.asp?
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/Register.asp?RetURL=/Search.asp?
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/report_bin/rwcgi60.exe
+xargs: unmatched double quote; by default quotes are special to xargs unless you use the -0 option
+usage: linkfinder.py [-h] [-d] -i INPUT [-o OUTPUT] [-r REGEX] [-b]
+                     [-c COOKIES] [-t <seconds>]
+linkfinder.py: error: unrecognized arguments: http://testasp.vulnweb.com/rpb.png

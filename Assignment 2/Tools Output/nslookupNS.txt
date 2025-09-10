@@ -1,0 +1,11 @@
+Server:		192.168.5.2
+Address:	192.168.5.2#53
+
+Non-authoritative answer:
+vulnweb.com	nameserver = ns1.eurodns.com.
+vulnweb.com	nameserver = ns2.eurodns.com.
+vulnweb.com	nameserver = ns3.eurodns.com.
+vulnweb.com	nameserver = ns4.eurodns.com.
+
+Authoritative answers can be found from:
+

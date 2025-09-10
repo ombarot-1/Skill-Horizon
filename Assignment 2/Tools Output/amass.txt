@@ -1,0 +1,23 @@
+[92mvulnweb.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns2.eurodns.com[0m[94m (FQDN)[0m
+[92mvulnweb.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns1.eurodns.com[0m[94m (FQDN)[0m
+[92mvulnweb.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns4.eurodns.com[0m[94m (FQDN)[0m
+[92mvulnweb.com[0m[94m (FQDN)[0m [97m-->[0m [95mns_record[0m [97m-->[0m [92mns3.eurodns.com[0m[94m (FQDN)[0m
+[92mtestaspnet.vulnweb.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m44.238.29.244[0m[94m (IPAddress)[0m
+[92m44.224.0.0/11[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m44.238.29.244[0m[94m (IPAddress)[0m
+[92m16509[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mAMAZON-02 - Amazon.com, Inc.[0m[94m (RIROrganization)[0m
+[92m16509[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m44.224.0.0/11[0m[94m (Netblock)[0m
+[92mns3.eurodns.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m199.167.66.108[0m[94m (IPAddress)[0m
+[92mns3.eurodns.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2610:1c8:b002::108[0m[94m (IPAddress)[0m
+[92m199.167.64.0/22[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m199.167.66.108[0m[94m (IPAddress)[0m
+[92m23393[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mNUCDN[0m[94m (RIROrganization)[0m
+[92m23393[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m199.167.64.0/22[0m[94m (Netblock)[0m
+[92m2610:1c8:b002::/48[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m2610:1c8:b002::108[0m[94m (IPAddress)[0m
+[92m23393[0m[94m (ASN)[0m [97m-->[0m [95mmanaged_by[0m [97m-->[0m [92mNUCDN, US[0m[94m (RIROrganization)[0m
+[92m23393[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m2610:1c8:b002::/48[0m[94m (Netblock)[0m
+[92mns4.eurodns.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m104.37.178.108[0m[94m (IPAddress)[0m
+[92mns4.eurodns.com[0m[94m (FQDN)[0m [97m-->[0m [95maaaa_record[0m [97m-->[0m [92m2610:1c8:b001::108[0m[94m (IPAddress)[0m
+[92mtestasp.vulnweb.com[0m[94m (FQDN)[0m [97m-->[0m [95ma_record[0m [97m-->[0m [92m44.238.29.244[0m[94m (IPAddress)[0m
+[92m104.37.176.0/21[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m104.37.178.108[0m[94m (IPAddress)[0m
+[92m23393[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m104.37.176.0/21[0m[94m (Netblock)[0m
+[92m2610:1c8:b001::/48[0m[94m (Netblock)[0m [97m-->[0m [95mcontains[0m [97m-->[0m [92m2610:1c8:b001::108[0m[94m (IPAddress)[0m
+[92m23393[0m[94m (ASN)[0m [97m-->[0m [95mannounces[0m [97m-->[0m [92m2610:1c8:b001::/48[0m[94m (Netblock)[0m
